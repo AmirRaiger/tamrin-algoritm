@@ -1,0 +1,15 @@
+C:\Users\Amir\source\repos\tamrin3\tamrin3\bin\Debug\net10.0\tamrin3.exe
+C:\Users\Amir\source\repos\tamrin3\tamrin3\bin\Debug\net10.0\tamrin3.deps.json
+C:\Users\Amir\source\repos\tamrin3\tamrin3\bin\Debug\net10.0\tamrin3.runtimeconfig.json
+C:\Users\Amir\source\repos\tamrin3\tamrin3\bin\Debug\net10.0\tamrin3.dll
+C:\Users\Amir\source\repos\tamrin3\tamrin3\bin\Debug\net10.0\tamrin3.pdb
+C:\Users\Amir\source\repos\tamrin3\tamrin3\obj\Debug\net10.0\tamrin3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\source\repos\tamrin3\tamrin3\obj\Debug\net10.0\tamrin3.AssemblyInfoInputs.cache
+C:\Users\Amir\source\repos\tamrin3\tamrin3\obj\Debug\net10.0\tamrin3.AssemblyInfo.cs
+C:\Users\Amir\source\repos\tamrin3\tamrin3\obj\Debug\net10.0\tamrin3.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\tamrin3\tamrin3\obj\Debug\net10.0\tamrin3.dll
+C:\Users\Amir\source\repos\tamrin3\tamrin3\obj\Debug\net10.0\refint\tamrin3.dll
+C:\Users\Amir\source\repos\tamrin3\tamrin3\obj\Debug\net10.0\tamrin3.pdb
+C:\Users\Amir\source\repos\tamrin3\tamrin3\obj\Debug\net10.0\tamrin3.genruntimeconfig.cache
+C:\Users\Amir\source\repos\tamrin3\tamrin3\obj\Debug\net10.0\ref\tamrin3.dll
+C:\Users\Amir\source\repos\tamrin3\tamrin3\obj\Debug\net10.0\tamrin3.csproj.Up2Date
